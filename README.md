@@ -1,17 +1,7 @@
 Buscador de CEP com React e Tailwind CSS!
 ===========
-This is a node.js chat application powered by SockJS and Express that provides the main functions you'd expect from a chat, such as emojis, private messages, an admin system, etc.
+Produzido para aprofundar meus conhecimentos em Tailwind e React, utilizando a API [ViaCEP](https://viacep.com.br/ws/)
 
-![Chat Preview](http://i.imgur.com/lgRe8z4.png)
+![image](https://github.com/babimingatos/buscadorCEP/assets/72284498/6fd2cdea-6967-4073-a32b-75da96b9101b)
 
 ---
-
-## Features
-- Material Design
-- Emoji support
-- User @mentioning
-- Private messaging
-- Message deleting (for admins)
-- Ability to kick/ban users (for admins)
-- See other user's IPs (for admins)
-- Other awesome features yet to be implemented
